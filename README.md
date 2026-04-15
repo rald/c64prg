@@ -1,1 +1,1 @@
-# c64prg
+# c64tests
